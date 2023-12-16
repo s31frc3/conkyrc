@@ -10,9 +10,9 @@ To use my Conky configuration, follow these commands:
 
 ```
 sudo apt install conky
-git clone https://github.com/andI7836I/conkyrc/conkyrc
+git clone https://github.com/s31frc3/conkyrc/conkyrc
 rm .conkyrc
-mv andI7836I/conkyrc/conkyrc ~/.conkyrc
+mv s31frc3/conkyrc/conkyrc ~/.conkyrc
 ```
 **Run Conky:** Start Conky by executing the following command in your terminal:
 ```
