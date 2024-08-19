@@ -11,7 +11,7 @@ To use my Conky configuration, follow these commands:
 ```
 sudo apt install conky
 cd /tmp
-git clone https://github.com/s31frc3/conkyrc/conkyrc
+git clone https://github.com/s31frc3/conkyrc
 rm ~/.conkyrc
 mv /tmp/conkyrc/conkyrc ~/.conkyrc
 ```
